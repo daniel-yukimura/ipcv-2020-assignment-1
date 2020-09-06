@@ -17,7 +17,9 @@ In this assignment you will practice working with the [Google Colab](https://col
 
 0. If you're using Google Colab, you just need to have a google account and an associated Google Drive. In case you're choosing to work locally in your machine you must set Anaconda or a `venv` virtual environment, and install the necessary libraries.
 
-1. Copy to your drive or download the following notebook:
+1. Create a folder in your Google Drive or in your machine's workspace. Copy to your drive folder or download the following notebook:
+
+ [**Assignment 1 - notebook**]()
 
 2. Follow the instructions in the notebook for completing the assignment.
 
