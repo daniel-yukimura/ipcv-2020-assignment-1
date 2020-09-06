@@ -19,13 +19,13 @@ In this assignment you will practice working with the [Google Colab](https://col
 
 1. Create a folder in your Google Drive or in your machine's workspace. Copy to your drive folder or download the following notebook:
 
- [**Assignment 1 - notebook**]()
+ [**Assignment 1 - notebook**](https://colab.research.google.com/drive/1t8gHrqvAQ_ip2Dr6nI3JOnkgRiSVqhAd?usp=sharing)
 
 2. Follow the instructions in the notebook for completing the assignment.
 
 3. You can build auxiliary `.py` scripts and call them from your notebook, for organizational purposes.
 
-### Submission
+### Submission for IMPA students
 
 The assignment is due on **Friday, September 18 2020** at 11:59pm (GMT-3).
 
@@ -36,6 +36,12 @@ The submission email should be sent with the subject **"Assignment 1 - [first-na
 * If parts of your implementation were done in auxiliary `.py` scripts, then you must send both the final notebook and the scripts inside a `.zip` file.
 
 The organization of the code will also be considered in the evaluation.
+
+#### For remaining students:
+
+For students that are enrolled as "Aluno de Curso Livre" you must not send your assignment to us, since we'll not be able to evaluate them due to the large number of students and lack of resources from our side.
+
+For students following the course on this modality, we recall that all assignments will be corrected/solved during the Lab classes. Therefore, students must evaluate themselves by comparing our corrections with their solutions. Students taking the writing exam at the end of the semester will be expected to have solved all the assignments.
 
 ### References:
 
