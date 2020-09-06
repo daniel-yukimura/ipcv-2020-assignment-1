@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/daniel-yukimura/ipcv-2020-assignment-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Assignment 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this assignment you will practice working with the [Google Colab](https://colab.research.google.com/) environment and [PyTorch](pytorch.org). You'll also practice setting a simple image classification pipeline. The goals of this practice are the following:
 
-### Markdown
+* Gain experience setting and using notebooks on Google Colab.
+* Develop familiarity with basic structures of PyTorch: tensors, autograd, modules.
+* Practice dealing with image data.
+* Understand better the data-driven approach.
+* Practice setting a image classification pipeline.
+* Train a neural network as a image classifier.
+* Understand the train/test/val data split, and learn how to evaluate and adjust your system.
+* Use visualization tools to evaluate your work.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Instructions:
 
-# Header 1
-## Header 2
-### Header 3
+0. If you're using Google Colab, you just need to have a google account and an associated Google Drive. In case you're choosing to work locally in your machine you must set Anaconda or a `venv` virtual environment, and install the necessary libraries.
 
-- Bulleted
-- List
+1. Copy to your drive or download the following notebook:
 
-1. Numbered
-2. List
+2. Follow the instructions in the notebook for completing the assignment.
 
-**Bold** and _Italic_ and `Code` text
+3. You can build auxiliary `.py` scripts and call them from your notebook, for organizational purposes.
 
-[Link](url) and ![Image](src)
-```
+### Submission
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The assignment is due on **Friday, September 18 2020** at 11:59pm (GMT-3).
 
-### Jekyll Themes
+IMPA students that are regularly enrolled in the program should send their assignments before the due date to <yukimura@impa.br> with a copy to <lvelho@impa.br>. Late delivers will be consider subject to a lower score.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daniel-yukimura/ipcv-2020-assignment-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The submission email should be sent with the subject **"Assignment 1 - [first-name] - [last-name]"**. The assignment can be structured and sent in two ways:
+* If your whole solution is implemented in the same notebook as the one provided for the assignment, then you can send just the `.ipynb` file as the solution.
+* If parts of your implementation were done in auxiliary `.py` scripts, then you must send both the final notebook and the scripts inside a `.zip` file.
 
-### Support or Contact
+The organization of the code will also be considered in the evaluation.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### References:
+
+* [Slides](https://slides.com/danielyukimura/deck-493038): Introduction to PyTorch class.
